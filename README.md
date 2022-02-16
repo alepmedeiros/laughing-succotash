@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://docs.github.com/en/get-started/quickstart/github-flow">
-    <img alt="logogithubflow" src="https://github.com/alepmedeiros/laughing-succotash/blob/master/public/githubflow.png" width="1020" height="860">
+    <img alt="logogithubflow" src="https://github.com/alepmedeiros/laughing-succotash/blob/master/public/githubflow.png" width="860" height="660">
   </a>  
 </p><br>
 
