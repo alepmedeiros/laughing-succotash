@@ -6,45 +6,45 @@ Using Git Flow for better code versioning
 
 ### Creating branches with git flow
 
-> git flow init
->> which branch should be used for bringing forth production realeases?
-<br/>    - develop
-<br/>    - master
-<br/> Branch name for production release: [master]
-<br/>
-<br/> witch brach should be used integration of the "next release"?
-<br/>    - develop
-<br/> Branch name for "next release" development: [develop]
-<br/> How to name your supporting branch prefixes?
-<br/> Feature branches? [feature/]
-<br/> Bugfix branches? [bugfix/]
-<br/> Hotfix branches? [hotfix/]
-<br/> Support branches? [support/]
-<br/> Version tag prefix? []
-<br/> Hooks and filters directory? [c:/diretory]
+    > git flow init
+        which branch should be used for bringing forth production realeases?
+            - develop
+            - master
+        Branch name for production release: [master]
+
+        witch brach should be used integration of the "next release"?
+           - develop
+        Branch name for "next release" development: [develop]
+        How to name your supporting branch prefixes?
+        Feature branches? [feature/]
+        Bugfix branches? [bugfix/]
+        Hotfix branches? [hotfix/]
+        Support branches? [support/]
+        Version tag prefix? []
+        Hooks and filters directory? [c:/diretory]
 
 ### Check existing branches
 
-> git branch -a
->> develop
-<br/> * master
+    > git branch -a
+        develop
+        * master
 
 ### Starting feature branch
 
-> git flow feature start feature_branch
->> Switched to a new branch 'feature/feature_branch'
-<br/>
-<br/> Summary of actions:
-<br/> - A new branch 'feature/feature_branch' was created, based on 'develop'
-<br/> - You are now on branch 'feature/feature_branch'
-<br/>
-<br/> Now, start committing on your feature. When done, use:
-<br/>
-<br/>git flow feature finish feature_branch
+    > git flow feature start feature_branch
+    Switched to a new branch 'feature/feature_branch'
+
+    Summary of actions:
+        - A new branch 'feature/feature_branch' was created, based on 'develop'
+        - You are now on branch 'feature/feature_branch'
+
+    Now, start committing on your feature. When done, use:
+
+    git flow feature finish feature_branch
 
 ## Recheck branches
 
-> git branch -a
->> develop
-<br/>* feature/feature_branch
-<br/> master
+    > git branch -a
+        develop
+        * feature/feature_branch
+        master
