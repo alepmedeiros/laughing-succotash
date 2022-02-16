@@ -4,6 +4,15 @@
   </a>  
 </p><br>
 
+
+## Diagram Git Flow
+
+<p align="center">
+  <a href="https://github.com/alepmedeiros/laughing-succotash/blob/master/public/git-release-branch.jpg">
+    <img alt="diagram" src="https://github.com/alepmedeiros/laughing-succotash/blob/master/public/git-release-branch.jpg" width="500" height="300">
+  </a>  
+</p><br>
+
 ### Working GitHub Flow 
 Using Git Flow for better code versioning
 
