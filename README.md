@@ -1,4 +1,9 @@
-[](https://github.com/alepmedeiros/laughing-succotash/blob/master/public/git-release-branch.jpg)
+<p align="center">
+  <a href="https://github.com/alepmedeiros/laughing-succotash/blob/master/public/git-release-branch.jpg">
+    <img alt="diagram" src="https://github.com/alepmedeiros/laughing-succotash/blob/master/public/git-release-branch.jpg">
+  </a>  
+</p><br>
+
 ### Working GitHub Flow 
 Using Git Flow for better code versioning
 
