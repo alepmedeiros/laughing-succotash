@@ -12,7 +12,7 @@ Using Git Flow for better code versioning
 <br/>    - master
 <br/> Branch name for production release: [master]
 <br/>
->> witch brach should be used integration of the "next release"?
+<br/> witch brach should be used integration of the "next release"?
 <br/>    - develop
 <br/> Branch name for "next release" development: [develop]
 <br/> How to name your supporting branch prefixes?
