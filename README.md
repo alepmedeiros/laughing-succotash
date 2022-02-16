@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/alepmedeiros/laughing-succotash/blob/master/public/git-release-branch.jpg">
-    <img alt="diagram" src="https://github.com/alepmedeiros/laughing-succotash/blob/master/public/git-release-branch.jpg" width="320" height="205">
+    <img alt="diagram" src="https://github.com/alepmedeiros/laughing-succotash/blob/master/public/git-release-branch.jpg" width="320" height="300">
   </a>  
 </p><br>
 
