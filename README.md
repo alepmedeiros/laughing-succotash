@@ -66,7 +66,7 @@ Using Git Flow for better code versioning
 ## Git Flow usage template
 
 <p align="center">
-  <a href="https://github.com/alepmedeiros/laughing-succotash/blob/master/public/git-release-branch.jpg">
-    <img alt="diagram" src="https://github.com/alepmedeiros/laughing-succotash/blob/master/public/git-release-branch.jpg" width="860" height="430">
+  <a href="https://github.com/alepmedeiros/laughing-succotash/blob/develop/public/new-diagram-gitflow.jpg">
+    <img alt="template" src="https://github.com/alepmedeiros/laughing-succotash/blob/develop/public/new-diagram-gitflow.jpg" width="860" height="430">
   </a>  
 </p><br>
