@@ -62,3 +62,11 @@ Using Git Flow for better code versioning
         develop
         * feature/feature_branch
         master
+
+## Git Flow usage template
+
+<p align="center">
+  <a href="https://github.com/alepmedeiros/laughing-succotash/blob/master/public/git-release-branch.jpg">
+    <img alt="diagram" src="https://github.com/alepmedeiros/laughing-succotash/blob/master/public/git-release-branch.jpg" width="860" height="430">
+  </a>  
+</p><br>
