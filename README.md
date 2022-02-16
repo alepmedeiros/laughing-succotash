@@ -1,4 +1,4 @@
-[](public/git-release-branch.drawio.png)
+[](https://github.com/alepmedeiros/laughing-succotash/blob/master/public/git-release-branch.jpg)
 ### Working GitHub Flow 
 Using Git Flow for better code versioning
 
